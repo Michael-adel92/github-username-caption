@@ -1,1 +1,2 @@
-# feature2 update
+# conflict
+- this is a conflict **merging**
